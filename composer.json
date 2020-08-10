@@ -1,0 +1,21 @@
+{
+  "name": "7csn/crontab",
+  "description": "定时任务组件",
+  "type": "library",
+  "require": {
+    "php": ">=7.1.0",
+    "7csn/container": "dev-master"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "7csn",
+      "email": "1479672753@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "chaser\\crontab\\": "src/"
+    }
+  }
+}
