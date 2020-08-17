@@ -1,5 +1,5 @@
 {
-  "name": "7csn/crontab",
+  "name": "7csn/chaser-crontab",
   "description": "定时任务组件",
   "type": "library",
   "require": {
