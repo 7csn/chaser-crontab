@@ -4,7 +4,7 @@
   "type": "library",
   "require": {
     "php": ">=7.1.0",
-    "7csn/container": "dev-master"
+    "7csn/chaser-container": "dev-master"
   },
   "license": "MIT",
   "authors": [
